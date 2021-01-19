@@ -1,0 +1,16 @@
+.FileUpload {
+  display: flex;
+  justify-content: space-between;
+}
+.FileUpload div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 300px;
+  height: 200px;
+  border: 1px solid lightgray;
+}
+
+.icon {
+  font-size: 3rem;
+}
